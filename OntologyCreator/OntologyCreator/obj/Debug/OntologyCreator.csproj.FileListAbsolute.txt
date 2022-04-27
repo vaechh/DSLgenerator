@@ -1,0 +1,86 @@
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.exe.config
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.exe
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.pdb
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Metadata.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Properties.Resources.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.exe
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.pdb
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.MainForm.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.Welcome.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.ConceptForm.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.OntologyForm.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.SubjectAreaForm.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.PropertyForm.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.RelationForm.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Data.dll
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.dll
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.xml
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Data.xml
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.CopyComplete
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.CombineOntologyForm.resources
+C:\Users\Acer\source\repos\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.CommonConceptForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.exe.config
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.exe
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.pdb
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Data.dll
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.dll
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Graphviz.dll
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Serialization.dll
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.xml
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Data.xml
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Graphviz.xml
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Serialization.xml
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.AssemblyReference.cache
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.CombineOntologyForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.CommonConceptForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.OntologyForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.PropertyForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.ConceptForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.MainForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Metadata.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.RelationForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.SubjectAreaForm.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.Welcome.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Properties.Resources.resources
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.GenerateResource.cache
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.CoreCompileInputs.cache
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.CopyComplete
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.exe
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.pdb
+E:\!учеба\DSM\Василюк В\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.DSL_Form.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.exe.config
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.exe
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\OntologyCreator.pdb
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Data.dll
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.dll
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Graphviz.dll
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Serialization.dll
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.xml
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Data.xml
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Graphviz.xml
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\bin\Debug\QuickGraph.Serialization.xml
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.AssemblyReference.cache
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.CombineOntologyForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.CommonConceptForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.DSL_Form.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.LanguageOntologySelectionForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.OntologyForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.PropertyForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.ConceptForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.MainForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Metadata.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.RelationForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.SubjectAreaForm.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Forms.Welcome.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.Properties.Resources.resources
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.GenerateResource.cache
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.CoreCompileInputs.cache
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.csproj.CopyComplete
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.exe
+E:\!учеба\DSM\Generator DSL\OntologyCreator\OntologyCreator\obj\Debug\OntologyCreator.pdb
